@@ -1,7 +1,10 @@
-# DesafioControleFluxo
-Desafio controle de fluxo proposto  no bootcamp da DIO 
+# # DesafioControleFluxo / DIO - Trilha Java Básico
 
-# DIO - Trilha Java Básico
+ Resposta do  Desafio controle de fluxo proposto  no bootcamp da DIO  
+ 
+(Obs: a Classe Contador está dentro da pasta src)
+
+
 www.dio.me
 
 #### Autores
